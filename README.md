@@ -85,25 +85,31 @@ Revenue potential fields (derived)
 [Amazon case study (2).xlsx](https://github.com/user-attachments/files/21049608/Amazon.case.study.2.xlsx)
 
 VISUALS & DASHBOARD
-![Screenshot (17)](https://github.com/user-attachments/assets/ff649902-dfe5-4b5e-951c-1c3f3277fe1b)
-![Screenshot (15)](https://github.com/user-attachments/assets/6bf49973-0966-4f1f-b4f9-12874e925684)
+Screenshot (17)](https://github.com/user-attachments/assets/ff649902-dfe5-4b5e-951c-1c3f3277fe1b
+Screenshot (15)](https://github.com/user-attachments/assets/6bf49973-0966-4f1f-b4f9-12874e925684
 
-![Screenshot (14)](https://github.com/user-attachments/assets/349294f5-476d-4340-a3fd-1eedfe98c0d0)
+Screenshot (14)](https://github.com/user-attachments/assets/349294f5-476d-4340-a3fd-1eedfe98c0d0
 
-![Screenshot (16)](https://github.com/user-attachments/assets/4da0ca21-a7e1-49b2-bb55-70795fe840f4)
+Screenshot (16)](https://github.com/user-attachments/assets/4da0ca21-a7e1-49b2-bb55-70795fe840f4
 
 ## 💡 Business Insights (Summary)
 
 High Discount ≠ High Rating: Many discounted items still received poor ratings. Price cuts alone won’t ensure customer satisfaction.
+
 Most Reviewed Category: Electronics had the most reviews but also a wide range in satisfaction.
+
 Revenue Optimization: Focus marketing efforts on mid-priced, highly rated products in "Home Kitchen" and "Accessories".
+
 Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
+
 Outlier Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
 
 ## 👨‍💻 About Me
 
 OLUDHINWA BIBIRE FIRSTLADY
+
 🎓 B.Ed in Political science and M.A in International Relations | 📊 Data Analyst | |Customer Services Support|🎶 Worship Singer
+
 I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions and am also victual assitant specific on CUSTOMER SERVICES and Admainistrative Support  
 This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
 
