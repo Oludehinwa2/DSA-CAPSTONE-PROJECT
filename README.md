@@ -84,8 +84,10 @@ Revenue potential fields (derived)
 # 📸 Analysed File
 [Amazon case study (2).xlsx](https://github.com/user-attachments/files/21049608/Amazon.case.study.2.xlsx)
 
-VISUALS & DASHBOARD
+## VISUALS & DASHBOARD
+
 Screenshot (17)](https://github.com/user-attachments/assets/ff649902-dfe5-4b5e-951c-1c3f3277fe1b
+
 Screenshot (15)](https://github.com/user-attachments/assets/6bf49973-0966-4f1f-b4f9-12874e925684
 
 Screenshot (14)](https://github.com/user-attachments/assets/349294f5-476d-4340-a3fd-1eedfe98c0d0
